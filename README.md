@@ -1,8 +1,8 @@
 # In Class Practice 9/11
 ## Technical Writing
+*Demo repository for tech writing*
 In class practice for github
 
-*Demo repository for tech writing*
 
 **What am I doing**
 
